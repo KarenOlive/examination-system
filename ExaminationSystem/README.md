@@ -1,2 +1,0 @@
-# ExaminationSystem
-Online examination system
